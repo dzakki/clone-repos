@@ -61,7 +61,7 @@ Perhatikan, di code tersebut terdapat variable `BATCH` dan `PATH_REPOS` silahkan
 
    5.1 pergi ke home directory `cd ~` .
 
-   5.2 buka `~/.bashrc` or `~/.zshrc` or `.bash_profile` dengan text editor.
+   5.2 buka `~/.bashrc` (Linux) or `~/.zshrc` or `~/.bash_profile` (Mac Os) or `.zprofile`(Mac Os Catalina) dengan text editor.
 
    5.3 masukkan code `source ~/.clone_repos.sh` di paling bawah atau terserah anda.
 
