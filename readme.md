@@ -1,6 +1,6 @@
 # Clone Repos
 
-Clone challenge repos by week and day.
+clone all challenge berdasarkan week dan day dengan sekali ketik.
 
 ## Latar belakang
 
