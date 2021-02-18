@@ -6,11 +6,12 @@
 
 1. Koneksikan ssh pc/laptop anda dengan [github](https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh).
 2. [install jq](https://stedolan.github.io/jq/download/)
-3. Buatlah file `.clone_repos.sh` di dalam home directory.
+3. Buatlah file `.clone_repos.sh` di dalam home directory dan ubah permission file tersebut.
 
 ```bash
-    cd ~
-    touch .clone_repos.sh
+  $  cd ~
+  $  touch .clone_repos.sh
+  $  chmod +x .clone_repos.sh
 ```
 
 4. Buka file `.clone_repos.sh` dengan text editor, kemudian masukkan code di bawah ini:
