@@ -1,6 +1,12 @@
 # Clone Repos
 
-## SET-UP
+Clone challenge repos by week and day.
+
+## Latar belakang
+
+latar belakang, kenapa ini **clone repos** di buat bisa lihat [disini](https://www.notion.so/Clone-repos-by-day-b9698ff1431b440592925ec7034a37e2).
+
+## Setup
 
 ---
 
