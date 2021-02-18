@@ -56,11 +56,11 @@ function clonerp(){
 
 Perhatikan, di code tersebut terdapat variable `BATCH` dan `PATH_REPOS` silahkan di ubah sesuai kebutuhan.
 
-5. Load file `.clone_repos.sh` agar perintah clone_repos bisa di jalankan, dengan cara:
-   5.1 pergi ke home directory `cd ~` .
-   5.2 buka `~/.bashrc` or `~/.zshrc` or `.bash_profile` dengan text editor.
-   5.3 masukkan code `source ~/.clone_repos.sh` di paling bawah atau terserah anda.
-   5.4 save kemudian close text editor dan juga terminal
+5. Load file `.clone_repos.sh` agar perintah clone_repos bisa di jalankan, dengan cara: <br/>
+   <p>5.1 pergi ke home directory `cd ~` .</p>
+   <p>5.2 buka `~/.bashrc` or `~/.zshrc` or `.bash_profile` dengan text editor.</p>
+   <p>5.3 masukkan code `source ~/.clone_repos.sh` di paling bawah atau terserah anda.</p>
+   <p>5.4 save kemudian close text editor dan juga terminal</p>
 6. Buka kembali terminal, kemudian jalankan perintah `clonerp`. jika muncul text seperti di bawah ini:
 
 ```bash
