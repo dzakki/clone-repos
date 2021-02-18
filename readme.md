@@ -56,11 +56,16 @@ function clonerp(){
 
 Perhatikan, di code tersebut terdapat variable `BATCH` dan `PATH_REPOS` silahkan di ubah sesuai kebutuhan.
 
-5. Load file `.clone_repos.sh` agar perintah clone_repos bisa di jalankan, dengan cara: <br/>
-   <p>5.1 pergi ke home directory `cd ~` .</p>
-   <p>5.2 buka `~/.bashrc` or `~/.zshrc` or `.bash_profile` dengan text editor.</p>
-   <p>5.3 masukkan code `source ~/.clone_repos.sh` di paling bawah atau terserah anda.</p>
-   <p>5.4 save kemudian close text editor dan juga terminal</p>
+5. Load file `.clone_repos.sh` agar perintah clone_repos bisa di jalankan, dengan cara:
+
+   5.1 pergi ke home directory `cd ~` .
+
+   5.2 buka `~/.bashrc` or `~/.zshrc` or `.bash_profile` dengan text editor.
+
+   5.3 masukkan code `source ~/.clone_repos.sh` di paling bawah atau terserah anda.
+
+   5.4 save kemudian close text editor dan juga terminal
+
 6. Buka kembali terminal, kemudian jalankan perintah `clonerp`. jika muncul text seperti di bawah ini:
 
 ```bash
@@ -167,10 +172,7 @@ Jika kalian **ingin melihat week-day/`wd` yang tersedia**, bisa jalankan perinta
 
 **Untuk clone repos by week and day**, bisa jalankan perintah `clonerp w<week>d<day>` dan pastikan sebelum jalankan perintah tersebut, kalian berada di directory yang kalian ingin kan untuk menyimpan hasil clone repo nya. jika perintah tersebut di jalankan, maka akan muncul seperti ini:
 
-```bash
-dzakki@DESKTOP-BUOO8AG  /mnt/d/WORK/CLONERP/TEST
-$ clonerp w1d2                                                                                                          Cloning into 'Grade-Students'...                                                                                        remote: Enumerating objects: 12, done.                                                                                  remote: Counting objects: 100% (12/12), done.                                                                           remote: Compressing objects: 100% (12/12), done.                                                                        remote: Total 273 (delta 3), reused 5 (delta 0), pack-reused 261                                                        Receiving objects: 100% (273/273), 135.57 KiB | 313.00 KiB/s, done.                                                     Resolving deltas: 100% (124/124), done.                                                                                 Cloning into 'Graduates'...                                                                                             remote: Enumerating objects: 6, done.                                                                                   remote: Counting objects: 100% (6/6), done.                                                                             remote: Compressing objects: 100% (6/6), done.                                                                          remote: Total 260 (delta 1), reused 3 (delta 0), pack-reused 254                                                        Receiving objects: 100% (260/260), 132.13 KiB | 302.00 KiB/s, done.                                                     Resolving deltas: 100% (125/125), done.                                                                                 Yeay.. berhasil clone repos, dengan total: 2
-```
+![hasil clone repos](./assets/hasil-clone-repos.png)
 
 ## Contribute
 
