@@ -1,6 +1,6 @@
 # Clone Repos
 
-clone all challenge berdasarkan week dan day dengan sekali ketik.
+clone all challenge berdasarkan week dan day dengan sekali perintah.
 
 ## Latar belakang
 
