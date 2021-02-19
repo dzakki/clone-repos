@@ -2,6 +2,8 @@
 
 clone all challenge berdasarkan week dan day dengan sekali perintah.
 
+![spoiler](https://media.discordapp.net/attachments/780292045704790097/812263832772542504/spoiler.gif)
+
 ## Latar belakang
 
 latar belakang, kenapa  **clone repos** ini di buat bisa lihat [disini](https://www.notion.so/Clone-repos-by-day-b9698ff1431b440592925ec7034a37e2).
