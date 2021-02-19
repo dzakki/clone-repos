@@ -186,3 +186,6 @@ Jika kalian **ingin melihat week-day/`wd` yang tersedia**, bisa jalankan perinta
 ---
 
 Dipersilahkan bosque
+
+
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/dzakki/clone-repos)
