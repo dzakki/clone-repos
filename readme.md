@@ -82,6 +82,15 @@ Perhatikan, di code tersebut terdapat variable `BATCH` dan `PATH_REPOS` silahkan
 
 Maka clone_repos berhasil di set-up.
 
+7. **Optioanl step.** langkah terakhir ini, akan berlaku setiap **pergantian batch**.
+
+```bash
+$ cd ~
+$ code .clone_repos.sh #buka file .clone_repos.sh di text editor vscode untuk mengubah variable BATCH
+```
+
+ubah variable `BATCH` sesuai kebutuhan. lalu kembali ke langkah 6.
+
 ## Usage
 
 ---
